@@ -1,0 +1,19 @@
+.app_heading {
+	color: #80696a;
+	font-size: 3rem;
+}
+
+.search_span > * {
+	margin: 0px 10px;
+	border: none;
+	font-size: 1.2rem;
+	text-align: center;
+	border-radius: 5px;
+	padding: 8px 10px;
+}
+
+.search_comment {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 18px;
+}
