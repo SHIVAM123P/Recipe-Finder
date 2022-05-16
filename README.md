@@ -9,7 +9,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/nooobcoder/upGradAssignment/blob/master/RecipeFinder/LICENSE)
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
-**Site Deployed on:** [https://heuristic-galileo-6b2b8f.netlify.app](https://heuristic-galileo-6b2b8f.netlify.app)
+**Site Deployed on:** [https://recipe-finder-shivam.netlify.app/](https://recipe-finder-shivam.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/587b8f22-d148-419b-ac65-76a3387e6987/deploy-status)](https://app.netlify.com/sites/sharp-tesla-44f31a/deploys)
 
